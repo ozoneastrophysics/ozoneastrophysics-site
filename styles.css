@@ -32,6 +32,7 @@ h3 {
     font-size: 30px;
     font-weight: 400;
     margin-left: 35px;
+    margin-bottom: 0px;
 }
 
 p {
@@ -89,7 +90,7 @@ p {
     font-size: 50px;
 }
 
-.solarsystem a {
+.planets a {
     color: #428bca;
     display: block;
     text-decoration: none;
