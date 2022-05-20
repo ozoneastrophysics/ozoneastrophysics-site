@@ -28,6 +28,12 @@ h2 {
     text-align: center;
 }
 
+h3 {
+    font-size: 30px;
+    font-weight: 400;
+    margin-left: 35px;
+}
+
 p {
     font-weight: 400;
     margin-left: 35px;
@@ -51,6 +57,7 @@ p {
 .navbar a {
     float: left;
     color: white;
+    font-weight: 400;
     text-decoration: none;
     display: block;
     font-size: 30px;
@@ -84,9 +91,10 @@ p {
 
 .solarsystem a {
     color: #428bca;
+    display: block;
     text-decoration: none;
     margin-left: 35px;
-    font-size: 50px;
+    font-size: 25px;
 }
 
 a:active {
