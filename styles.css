@@ -38,7 +38,7 @@ h3 {
 p {
     font-weight: 400;
     margin-left: 35px;
-    margin-right: 300px;
+    margin-right: 650px;
 }
 
 .navbar {
@@ -90,11 +90,29 @@ p {
     font-size: 50px;
 }
 
+.planets {
+    display: flex;
+    margin-left: 35px;
+}
+
 .planets a {
     color: #428bca;
     display: block;
     text-decoration: none;
+    padding: 10px;
+    font-size: 25px;
+}
+
+.solarsystem {
+    display: flex;
     margin-left: 35px;
+}
+
+.solarsystem a {
+    color: #428bca;
+    display: block;
+    text-decoration: none;
+    padding: 10px;
     font-size: 25px;
 }
 
