@@ -90,6 +90,14 @@ p {
     font-size: 50px;
 }
 
+.socialmedia a {
+    color: #428bca;
+    text-decoration: none;
+    display: block;
+    margin-left: 35px;
+    font-size: 25px;
+}
+
 .planets {
     display: flex;
     margin-left: 35px;
