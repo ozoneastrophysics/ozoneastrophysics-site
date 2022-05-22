@@ -75,7 +75,7 @@ p {
 
 .logo img {
     margin-top: 7px;
-    width: 75px
+    width: 65px;
 }
 
 .topics {
@@ -91,6 +91,14 @@ p {
 }
 
 .planets a {
+    color: #428bca;
+    display: block;
+    text-decoration: none;
+    margin-left: 35px;
+    font-size: 25px;
+}
+
+.sun a {
     color: #428bca;
     display: block;
     text-decoration: none;
